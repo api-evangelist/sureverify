@@ -1,0 +1,40 @@
+{
+    "name": "SureVerify",
+    "description": "SureVerify Realtime Email Verification. No contracts or set up fees, ever. Collect only valid emails addresses, connecting more wasting less. Easy to use, seemless integrate into your product.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1904-sureverify.jpg",
+    "tags": [
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sureverify\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SureVerify",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1904-sureverify.jpg",
+            "humanURL": "http:\/\/sureverify.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sureverify-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SureVerify"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sureverify.com\/"
+        }
+    ]
+}
